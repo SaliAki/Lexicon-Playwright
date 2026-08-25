@@ -7,7 +7,6 @@ import com.microsoft.playwright.options.AriaRole;
 public class CreatePage {
     private final Page page;
 
-
     private final Locator title;
     private final Locator description;
 
